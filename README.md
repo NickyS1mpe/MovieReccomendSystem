@@ -4,7 +4,7 @@ Movie Recommend System Using SVD
 
 # Conclusion
 
-The Movie Recommendations Homework involved the analysis and recommendation of movies based on the MovieLens dataset. The key steps and findings are summarized below:
+The Movie Recommendations System involved the analysis and recommendation of movies based on the MovieLens dataset. The key steps and findings are summarized below:
 
 ## Overview:
 
